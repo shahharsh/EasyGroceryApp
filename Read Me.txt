@@ -1,0 +1,21 @@
+
+
+Hi Class,
+
+There are two compressed files inside the Easy Grocery app source code.
+
+1.Android processing code. We have implemented UI sketch in it.
+You can install it on your android smart phone using Android mode in processing. 
+
+2. BlueJ Project. We have implemented design patterns on it.
+
+	following five design patterns we have implemented in code
+	1. Command pattern
+	2. Observer pattern
+	3. State design pattern
+	4. Observer pattern
+	5. Chain of responsibility.
+
+
+Thanks,
+Team 4
